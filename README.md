@@ -129,6 +129,18 @@ Flux is open-source software licensed under the [MIT license](LICENSE).
 
 ---
 
+## 👨‍💻 Author
+
+**Simran Agarwal**
+
+- 🌐 [simranagarwal.in](https://simranagarwal.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/simran-agarwal-54751b191/)
+- 🐙 [GitHub](https://github.com/officialsimranagarwal)
+- 📸 [Instagram](https://www.instagram.com/_simranagarwal/)
+- 📧 [simransgarg01@gmail.com](mailto:simransgarg01@gmail.com)
+
+---
+
 <div align="center">
   <p>© 2026 Flux Labs. Built by Simran Agarwal.</p>
 </div>
